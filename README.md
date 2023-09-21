@@ -70,6 +70,7 @@ Fraud transactions and invoices are serious problems in the financial services a
 - [Drive link for PPT](https://docs.google.com/presentation/d/1BdZr7hHd4X8RenVTC1hHSzQmLpTHUL2w-BDA8KbkFek/edit?usp=sharing)
 - [Proposal](https://docs.google.com/document/d/1LnZ_EIVjMkTA8e2q9V1swQQJ4rpQ2-yKSTu4EeCkAhU/edit?usp=sharing)
 - [Demo Video](https://youtu.be/Ulq-CRd5YeE)
+- [Database Schema](https://drawsql.app/teams/dcodestarbots/diagrams/sih-2023)
 
 ### Backend (Hasura and Render)
 
