@@ -58,9 +58,8 @@ Fraud transactions and invoices are serious problems in the financial services a
 
 ### Flowcharts
 
-![Modern Project Management Process Infographic Graph](https://github.com/saRvaGnyA/similar-doc-matching/assets/24823649/7d9e4670-0382-45c4-9432-61364593cb95)  
-![Minimalist White Colorful Project Management Process Infographic Graph](https://github.com/saRvaGnyA/similar-doc-matching/assets/24823649/5aadcf41-8ff5-4d0e-ab41-fb08091f2f77)
-
+![Modern Project Management Process Infographic Graph](https://github.com/saRvaGnyA/similar-doc-matching/assets/24823649/c0e7f276-7390-49bf-af89-a7d29cc17f49) 
+![Minimalist White Colorful Project Management Process Infographic Graph](https://github.com/saRvaGnyA/similar-doc-matching/assets/24823649/b7309da4-ca91-448c-8b33-522ae2e6df75)
 
 ## 🔗Links
 
